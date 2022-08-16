@@ -3,7 +3,7 @@ function Navbar() {
   return (
     <nav>
       <h1>
-        <a href="#">@MANU</a>{" "}
+        <a href="#">My Travel App</a>{" "}
       </h1>
     </nav>
   );

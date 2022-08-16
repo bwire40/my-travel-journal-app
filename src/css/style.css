@@ -90,6 +90,9 @@ header .hero-items {
 h1 {
   margin-bottom: 15px;
 }
+.card-content h1 {
+  color: rgba(0, 0, 0, 0.466);
+}
 footer {
   display: flex;
   justify-content: center;
